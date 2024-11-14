@@ -1,6 +1,6 @@
 {
-  "id": "5bc4011d-e3d6-4273-85e9-0d8fc8e34989",
-  "prevId": "0f380fde-f3a3-4da9-8b76-763c67e54b3f",
+  "id": "51be3187-7e87-47d8-b4fc-cfaadbdab6c5",
+  "prevId": "065942ae-296a-44fc-9891-33e096ded60b",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -37,8 +37,8 @@
           "primaryKey": false,
           "notNull": true
         },
-        "tags1": {
-          "name": "tags1",
+        "answer_options": {
+          "name": "answer_options",
           "type": "text[]",
           "primaryKey": false,
           "notNull": true,
@@ -46,7 +46,7 @@
         },
         "correct_answer": {
           "name": "correct_answer",
-          "type": "varchar(255)",
+          "type": "integer",
           "primaryKey": false,
           "notNull": true
         }
