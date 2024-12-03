@@ -15,6 +15,27 @@
       "when": 1731536598088,
       "tag": "0001_tidy_juggernaut",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1732135546438,
+      "tag": "0002_nasty_shriek",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1732136174061,
+      "tag": "0003_cynical_roxanne_simpson",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1732655240588,
+      "tag": "0004_silly_talkback",
+      "breakpoints": true
     }
   ]
 }
